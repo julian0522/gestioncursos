@@ -1,0 +1,13 @@
+package com.julianguarnizo.gestioncursos;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GestioncursosApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GestioncursosApplication.class, args);
+	}
+
+}
